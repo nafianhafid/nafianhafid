@@ -21,6 +21,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 <br>
 
-[![Nafian Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nafianhafid&custom_title=Nafian%20Muhammad's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Nafian Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nafianhafid&custom_title=Nafian%20Muhammad's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/nafianhafid)
 
 ------
