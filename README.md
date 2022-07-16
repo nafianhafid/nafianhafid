@@ -10,9 +10,17 @@ Saya juga memiliki gelar [Google Associate Android Developer](https://www.creden
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-hafidh-nafian/)ku ya.  
 
+## My Statistics
+
+<br/>
 <p align="left">
-<a href="https://github.com/ouler541">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nafianhafid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nafianhafid&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafianhafid&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nafianhafid&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
+<br>
+
+[![Nafian Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nafianhafid&custom_title=Nafian%20Muhammad's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
+------
